@@ -1,4 +1,4 @@
-HorrorIgricaUnity
+Horror game like Slender in same game engine!
 =================
 
 Our horror game.
